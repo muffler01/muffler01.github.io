@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Muffler01's Site"
+title                    : "Muffler01's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Muffler01"
@@ -97,7 +97,7 @@ author:
   name             : "Muffler01"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ":D"
-  location         : "Somewhere"
+  location         : "Korea, Republic of"
   email            :
   links:
     - label: "Email"
