@@ -131,10 +131,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/muffler01/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/muffler01/"
+      # url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
