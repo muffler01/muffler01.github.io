@@ -76,7 +76,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/etcImage/hat.png"
+# Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -95,7 +96,7 @@ analytics:
 # Site Author
 author:
   name             : "머플러"
-  avatar           : "/assets/images/muffler.jpg"
+  avatar           : "/assets/images/etcImage/profile.jpg"
   bio              : ":D"
   location         : "South Korea"
   email            :
