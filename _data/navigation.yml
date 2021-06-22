@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Intro"
-    url: https://muffler01.github.io/intro/
+    url: /intro/
   - title: "Category"
-    url: https://muffler01.github.io/categories/
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
