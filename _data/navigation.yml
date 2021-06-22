@@ -2,8 +2,8 @@
 main:
   - title: "Intro"
     url: https://muffler01.github.io/intro/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Category"
+  url: https://muffler01.github.io/categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
