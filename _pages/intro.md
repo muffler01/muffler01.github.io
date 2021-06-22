@@ -2,6 +2,7 @@
 title: "Intro. Game and I"
 permalink: /intro/
 layout: single
+author_profile: true
 ---
 
 #### 나의 첫 게임, 크레이지 아케이드
