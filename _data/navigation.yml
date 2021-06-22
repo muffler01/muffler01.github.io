@@ -3,7 +3,7 @@ main:
   - title: "Intro"
     url: https://muffler01.github.io/intro/
   - title: "Category"
-  url: https://muffler01.github.io/categories/
+    url: https://muffler01.github.io/categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
